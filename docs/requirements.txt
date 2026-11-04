@@ -19,7 +19,7 @@ automat==25.4.16
     # via twisted
 babel==2.18.0
     # via sphinx
-brotli==1.2.0
+brotli==1.2.1
     # via scrapy
 certifi==2026.10.19
     # via requests
@@ -48,7 +48,7 @@ docutils==0.22.4
     #   sphinx-llm-friendly
     #   sphinx-rtd-theme
     #   sphinx-scrapy
-filelock==4.2.0
+filelock==4.2.1
     # via tldextract
 frozenlist==1.8.0
     # via
@@ -202,7 +202,7 @@ tabulate==0.10.0
     # via sphinx-llm-friendly
 tldextract==5.4.0
     # via scrapy
-twisted==26.4.0
+twisted==26.10.0rc1
     # via scrapy
 typing-extensions==4.16.0
     # via
